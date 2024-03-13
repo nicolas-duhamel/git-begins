@@ -1,4 +1,5 @@
 git clone url
-git commit -m comment
-git remote name url
+
+git add .
+git commit
 git push
