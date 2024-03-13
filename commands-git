@@ -1,0 +1,4 @@
+git clone url
+git commit -m comment
+git remote name url
+git push
