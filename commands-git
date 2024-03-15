@@ -1,7 +1,9 @@
 git clone url
 
 git add .
-git commit
+git commit -m "Message"
 git push
 
 git pull
+
+git branch new-branch
